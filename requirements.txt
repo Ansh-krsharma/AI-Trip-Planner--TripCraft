@@ -1,0 +1,7 @@
+streamlit>=1.38
+langgraph>=0.2.60
+langchain-groq>=0.2.1
+chromadb>=0.5.20
+pydantic>=2.8
+requests>=2.32
+onnxruntime>=1.18
